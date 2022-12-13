@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-const API_KEY = "86d1cbde1amshb368419ab36bf71p12002cjsn491f38f13f6b";
+const API_KEY = "xxxxxxxxxxxxxxxxxxxxxxx";
 export default function DadJokes(props) {
     const [jokesetup, setJokeSetup] = useState('...');
     const [jokeAnswerVisible, setJokeAnswerVisible] = useState(false);
